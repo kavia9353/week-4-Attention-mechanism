@@ -1,0 +1,5 @@
+The cat is sitting on the mat.
+The dog is playing in the garden.
+Artificial intelligence is changing technology.
+Machine learning is a part of artificial intelligence.
+The student is learning Python.
